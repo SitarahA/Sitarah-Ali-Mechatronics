@@ -1,7 +1,7 @@
 # Configs
 
 title: "Sitarah Ali"
-name: "Profile for Sitarah ALi"
+name: "Profile for Sitarah Ali"
 email: 
 url: "https://SitarahA.github.io" 
 baseurl: "/Sitarah-Ali-Mechatronics"
@@ -41,7 +41,7 @@ author:
   avatar : "/assets/images/banner-husky.jpg"
   bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
   location: "Carol Stream, Illinois"
-  github : https://github.com/SitarahA
+  github : SitarahA
   linkedin: "sitarah-ali/" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : 
 
