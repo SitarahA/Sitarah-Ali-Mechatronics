@@ -23,3 +23,38 @@ Art is still prevalent in my life. As a hobby I’m used to, it's one of the eas
 - Music Composition
 
 I’m currently seeking a summer internship in mechatronics engineering where I can use my creativity, and learn something new. Know any opportunities or want to reach out? Feel free to connect! Let’s create something amazing.
+
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
+
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
+
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
+
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
+
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
+
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
+
+<details markdown="1">
+  <summary>Blog Title</summary>
+  Blog Contents
+</details>
