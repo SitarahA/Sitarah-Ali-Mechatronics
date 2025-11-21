@@ -126,8 +126,26 @@ With the table from this class's activity, here's how I would rate it:
 </details>
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>BP04 - Explore Open Source Revealjs</summary>
+  # Blog Post 4 - Explore Open Source Revealjs
+Prompt:
+> “Reveal.js: My First Deep Dive into an Open Source Project” - After exploring Reveal.js, describe how it’s structured, what it’s for, and what you found interesting about the way the project is documented and maintained. Could you imagine yourself contributing to this? Why or why not?
+
+### **What is Revealjs used for?**
+Reavealjs is a framework for making professional looking slideshows with HTML by [Hakim](https://github.com/hakimel). These can either be hosted locally, or on the cloud and act as websites. 
+
+### **Docmentation**
+Revealjs's README seems to have a wiki linked for its doumentation. The linked installation guide is clear on what the basics are, while also pointing to the more advanced stuff if you want to. Right next to the README tab, they provide guidelines on contributing. In the provided file and linked to on the site, demonstrations are provided!
+
+### **Maintenance**
+The labels for issues are pretty intuitive and beginner friendly. However, the issues made aren't labeled with these. The most recent pull request was made a week ago, so its pretty active!
+
+### **Could I imagine myself contributing to this?**
+No, as I am unsure what I could meaningfully contribute to. I know some basic HTML so I at most could add templates for others to use to be bundled. Beyond that, I do not know Javascript or anything relevant to Revealjs's deveopment. 
+
+### **Overall...**
+Revealjs is a pretty cool project. Its cool to have a versatile tool available for free, and as something that can be a tool for potentially creating specific types of webpages. 
+
 </details>
 
 <details markdown="1">
