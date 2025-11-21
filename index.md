@@ -6,7 +6,7 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/SitarahA/Sitarah-Ali-Mechatronics/blob/master/assets/images/sitarahali_june23.png" width="30%" hspace="20" align="right">
+<img src="https://github.com/SitarahA/Sitarah-Ali-Mechatronics/blob/master/assets/images/sitarahali_june23.png?raw=true" width="30%" hspace="20" align="right">
 
 Creating things is my passion. For most of my life, that meant art. I’d pour hours and hours into improving my drawings and characters. However, after taking an Electronics Class in high school, I found a new path for my desire to create. Now, I’m a full time Mechatronics Engineering student at NIU expected to graduate in Spring 2027, a member of my university’s Robotics Club, and looking to build a career where I can fully use my love of creation and innovation. Whenever I’m free, you’ll either find me drawing, or trying to learn something new.
 
