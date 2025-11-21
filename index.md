@@ -93,8 +93,40 @@ Markdown in Github is very, _very_ versatile. I learned about new features like 
 </details>
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>BP03 - Repo Exploration</summary>
+  Prompt:
+> How I chose a repository to explore and what I found interesting about its structure, community, and contribution process
+
+During today's class, I chose to evaluate the repository for [Aseprite](https://www.aseprite.org/), a popular pixel art and animation editor that I have just a little bit of experience with.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92ff362b-06fa-4e45-98f6-31b6c9b6d0b0" />
+</p>
+
+I decided to evaluate this repository since I was curious about how a project I use so often was maintained.
+
+Some things I found interesting about the structure of Aseprite's Repository:
+
+- The **Contribution** and **Code of Conduct** sections were beside the README
+- The 3 liscense distributions were listed in the README
+- Its communities are linked to with Discord and their own site
+- For contributing and engagine with the community, they have a Code of Conduct
+
+While the issues and pull requests are actively closed, the developers don't seem to be that responsive to issues in the comments.
+
+With the table from this class's activity, here's how I would rate it:
+
+| Criteria | ✅ Yes | ⚠️ Partially | ❌ No
+|---------|--------|--------------|-------
+| **1. Clear README** – Includes project purpose, setup instructions, usage, and examples.|✅ | | |
+| **2. CONTRIBUTING Guide Available** – Explains how to contribute, coding standards, or where to start. |    ✅    |              |       |
+| **3. License is Included** – Specifies how the code can be used, modified, and shared. |    ✅    |              |       |
+| **4. Beginner-Friendly Labels Exist** – e.g., `good first issue`, `help wanted`, etc. |   ✅     |              |       |
+| **5. Recent Activity** – Commits, issues, or PRs active in the last 1–2 months. |    ✅    |              |       |
+| **6. Maintainers Respond** – Signs of regular interaction with contributors. |        |              |   ❌    |
+| **7. Welcoming Community Tone** – Issue threads and PRs show respectful, helpful communication. |        |       ⚠️       |       |
+| **8. Match to Your Interests / Skills** – Aligns with your learning goals or academic interests. |        |       ⚠️       |       |
+
 </details>
 
 <details markdown="1">
