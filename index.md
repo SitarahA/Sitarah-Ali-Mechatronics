@@ -66,6 +66,9 @@ Larger companies making their software open source allows for developers outside
  
 </details>
 
+
+
+
 <details markdown="1">
   <summary>BP02 - GitHub and Markdown</summary>
   Prompt:
@@ -91,6 +94,9 @@ Markdown in Github is very, _very_ versatile. I learned about new features like 
 
 
 </details>
+
+
+
 
 <details markdown="1">
   <summary>BP03 - Repo Exploration</summary>
@@ -125,9 +131,11 @@ With the table from this class's activity, here's how I would rate it:
 
 </details>
 
+
+
+
 <details markdown="1">
   <summary>BP04 - Explore Open Source Revealjs</summary>
-  # Blog Post 4 - Explore Open Source Revealjs
 Prompt:
 > “Reveal.js: My First Deep Dive into an Open Source Project” - After exploring Reveal.js, describe how it’s structured, what it’s for, and what you found interesting about the way the project is documented and maintained. Could you imagine yourself contributing to this? Why or why not?
 
@@ -148,10 +156,38 @@ Revealjs is a pretty cool project. Its cool to have a versatile tool available f
 
 </details>
 
+
+
+
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>BP05</summary>
+  > Blog Prompt: “Ownership, Access, and Innovation: What I Learned About Licensing.”
+> - Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
+> - How did the Tetris movie shape your understanding of software ownership and distribution?
+> - What surprised or intrigued you about NIU’s approach to IP, patents, and tech transfer?
+> - How do you think licensing empowers or complicates open innovation?
+
+### **Reflection on Open Source Licensing**
+During the past two weeks, we've been given several items in relation to open source licensing. One of the most interesting to me was Copyleft. I've only ever heard of Copyright, so the name sounded silly. Despite the naming, copyleft is really useful. It essentially allows anyone to use and modify the work, but with the condition that you also have to grant similar rights to the public in some way.
+
+### **How did the Tetris Movie Shape my Understanding of Software Ownership & Distribution?**
+I found the movie somewhat hard to follow. However, what I could tell was that international software rights can get complicated. Alongside this, miscommunications can lead to a lot of confusion with who owns what. Software rights also can be categorized and seperated by device - in the movie, the right to Tetris for Video Games were sperate from Arcade rights and Computer rights.
+
+### **What Surprised or Intrigued Me About NIU’s Approach to IP, Patents, and Tech Transfer?**
+I learned that either working for NIU or using a sufficient amount of NIU's resources to innovate or invent something can potentially have NIU own the rights to whatever you make. However, using resources such as software or the provided internet doesn't necessarily warrant this.
+
+### **How Does Licensing Empower or Complicate Open Innovation?**
+
+There are many ways that liscensing can empower innovation:
+- Licensing clearly outlines how a work can be used for other developers
+- Licensing allows developers to protect their work and decide how they want it to be distributed or modified
+- In the case of Copyleft, licensing can allow other developers to use a work, but forces them to "pass on the favor" and allow other developers to have the same ability with the modified work
+- Public Domain licensing allows for developers to safely and freely modify a work however they choose
+
 </details>
+
+
+
 
 <details markdown="1">
   <summary>Blog Title</summary>
