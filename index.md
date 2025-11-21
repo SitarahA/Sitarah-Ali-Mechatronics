@@ -99,9 +99,7 @@ Markdown in Github is very, _very_ versatile. I learned about new features like 
 
 During today's class, I chose to evaluate the repository for [Aseprite](https://www.aseprite.org/), a popular pixel art and animation editor that I have just a little bit of experience with.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/92ff362b-06fa-4e45-98f6-31b6c9b6d0b0" />
-</p>
+<img width="830" height="395" alt="image" src="https://github.com/user-attachments/assets/42e5d3dc-87e4-4b54-bafc-9938d32eb6ae" />
 
 I decided to evaluate this repository since I was curious about how a project I use so often was maintained.
 
