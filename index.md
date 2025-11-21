@@ -67,8 +67,29 @@ Larger companies making their software open source allows for developers outside
 </details>
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>BP02 - GitHub and Markdown</summary>
+  Prompt:
+> “What I learned about Markdown and Git, and how they help me contribute to open source and improve professionally. Have you use them before? What surprised you about Markdown or Git?”
+
+### **What have I learned about Markdown and Git?**
+Markdown is super simple. Its used in a lot of places I didn't originally realize, such as Discord, and Microsoft Teams. Its very helpful for versatile formatting that simply raw text cannot accomplish.
+Git is a software for managing the development of programs. GitHub is built on Git, and runs in the cloud. Git is also made by the same person who made Linux, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).
+
+### **How do they help me contribute to open source?**
+Markdown helps clearly communicate ideas. This can be in the form of documentation for how to use a software, or in discussions when evaluating new potential features and progress for a project. Git is important to understand the background of what an open source project is doing. It is also important to understand what the standard procedure is for contributing to collaborative developments that use Git, so as to not interrupt the work from other devs. 
+
+### **How do they help me improve professionally?**
+Many projects I have been involved in used GitHub in some way, which is built on Git. Understanding Git allows me to better and more efficiently contribute to these projects. Markdown allows for professional, versitile, and effective formatting of ideas I want to communicate. This can be used to ensure important details are emphasized and making a given post appear more polished.
+
+### **Have I used them before?**
+I've used Markdown in Discord and Microsoft Teams. Discord has its own modified version of Markdown. While many bits of Markdown are missing in Discord's version of it, it does add some of its own features. For example, you can <ins>underline</ins> something by using underscores instead of HTML tags! The extent that I've used Git is only what we've done in class, and any time I've used it by messing with GitHub. This includes referencing a friend's code for a minecraft mod, accessing downloads for open source projects, and messing with the GitHub Pages (for a since discarded repo).
+
+### **What surprised me about Markdown or Git?**
+Git looks intimidating with the terminal, but really its still the same features. Instead of a visual GUI like with GitHub, information and tasks are accessed with their respective commands.
+
+Markdown in Github is very, _very_ versatile. I learned about new features like footnotes and alerts. Anything Markdown doesn't directly cover can be supplemented with HTML!
+
+
 </details>
 
 <details markdown="1">
