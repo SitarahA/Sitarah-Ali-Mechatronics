@@ -97,9 +97,7 @@ Markdown in Github is very, _very_ versatile. I learned about new features like 
   Prompt:
 > How I chose a repository to explore and what I found interesting about its structure, community, and contribution process
 
-During today's class, I chose to evaluate the repository for [Aseprite](https://www.aseprite.org/), a popular pixel art and animation editor that I have just a little bit of experience with.
-
-<img width="830" height="395" alt="image" src="https://github.com/user-attachments/assets/42e5d3dc-87e4-4b54-bafc-9938d32eb6ae" />
+During today's class, I chose to evaluate the repository for [Aseprite](https://www.aseprite.org/), a popular pixel art and animation editor that I have a decent amount of experience with.
 
 I decided to evaluate this repository since I was curious about how a project I use so often was maintained.
 
