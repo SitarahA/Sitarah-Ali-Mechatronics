@@ -160,7 +160,7 @@ Revealjs is a pretty cool project. Its cool to have a versatile tool available f
 
 
 <details markdown="1">
-  <summary>BP05</summary>
+  <summary>BP05 - Open Source Licensing</summary>
   > Blog Prompt: “Ownership, Access, and Innovation: What I Learned About Licensing.”
 > - Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
 > - How did the Tetris movie shape your understanding of software ownership and distribution?
@@ -190,11 +190,55 @@ There are many ways that liscensing can empower innovation:
 
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>BP06 - Global Hack Week</summary>
+  > Blog Prompt: “My experience participating in MLH Global Hack Week: what I learned, what I contributed, and who I connected with.”
+> Write about:
+>     What you learned from participating in MLH Global Hack Week
+>     What contribution (or challenge) you made
+>     Who you connected with or learned from
+>     How this experience shaped your view of open source collaboration
+
+### What I learned?
+For Global Hack Week, I joined the second livestream for _Figma to Code: Learning Design with Figma Dev Mode_. Figma is a tool I've been interested in for website designing and creation, and this livestream gave a simple and informative rundown of the basics. I also learned from the livestream that there is a student option for certain premium features. One of the features I was disappointed in not having access to was Figma's generated code from the graphics you design, so I hope to later look into seeing if this is included.
+
+### Contribution/Challenge
+For this workshop, we worked along with Ryan Lay from Major League Hacking in, at first, exploring the basic features, and then later trying to design vegetable themed trading cards in the canvas. I attempted to follow along in a [Figma Design](https://www.figma.com/design/OgcVdBKa95DobuZomeEoiC/Untitled?node-id=0-1&t=6Wm6MyiD3mkVLBmQ-1). I found the stream slightly hard to keep up with since they were going fast, along with the fact that Twitch doesn't currently have an option to rewind livestreams. An [archive](https://www.youtube.com/watch?v=XVwI7aIPj78) of the stream is present on YouTube, so I hope to try again another time with following along with the basics.
+
+I didn't know before today how versatile and collaborative Figma can be, beyond knowing it was a tool for web design. The collaborative options can definitely help with open source when attempting to make a website with a community for a project. Figma is also decently beginner friendly, without needing to know how to code to use it. Later, I hope to use this to design and develop my own personal website and portfolio! I plan on applying to the student benefits as well, which will potentially make this development easier. 
+
 </details>
 
 <details markdown="1">
-  <summary>Blog Title</summary>
-  Blog Contents
+  <summary>BP07 - Contribution and Communication in Open Source</summary>
+  Blog Prompt
+
+> What counts as a contribution in open source? 
+>
+> My thoughts on the value of code and non-code contributions. 
+>
+> How diagrams help clarify a workflows. 
+>
+> How communication and collaboration shape successful non code contributions. 
+>
+> What non code contribution opportunities did you find?
+
+### What counts as a contribution in open source?
+
+In open source, a contribution is any addition made to a repo the contributer has access to. While this is generally thought of as code, there are other ways to contribute - including:
+- Adding to documentation
+- Providing translations for the software
+- Providing assets
+
+### My thoughts on the value of code and non-code contributions. 
+
+Code is a crucial part of developing open source software. However, many projects do not rely purely on code to function. Translating a project provides accessibility to users who do not speak the language the project was originally in. Assets can make a software feel better to use. Adding to documentation is crucial in order for newcomers to understand how to use the software, and for long time users to understand niche or recently implemented features. None of these explicitly require code (or at minimum, soley rely on it), but are still important to the development and progression of many softwares.
+
+### How communication and collaboration shape successful non code contributions. 
+
+Effective communication ensures that when members go to make contributions, they distribute their efforts properly. If someone is already working on a given issue, you don't want another contributer to waste time developing something that is already being worked on.
+
+### What non code contribution opportunities did you find?
+
+A classmate owns a repo for a project called [FuzzRGB](https://github.com/Lord-Memester/FuzzRGB). They earlier requested me to make a logo for the README, and this felt like a fitting non-code contribution for the project.
+
 </details>
