@@ -4,16 +4,16 @@ main:
     url: /
   - title: "Curriculum Vitae"
     url: /assets/docs/Resume_SitarahA
-  #- title: "Research"
-  #  url: /portfolio/
+  - title: "Research"
+    url: /portfolio/
   - title: "Teaching"
     url: /teaching/
   - title: "Links"
     url: /links/
   - title: "Contact"
     url: /contact/
-   - title: "Blog"
-     url: /blog/
+  # - title: "Blog"
+   #  url: /blog/
 
 # sidebar for portfolio
 portfolio:
